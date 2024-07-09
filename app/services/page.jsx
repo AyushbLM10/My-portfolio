@@ -6,19 +6,19 @@ const services = [
   {
     num: '1',
     title: 'Front-End Development',
-    description: '  Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore nulla obcaecati necessitatibus commodi placeat dolorem!',
+    description: ' Crafting engaging and responsive user interfaces with a focus on usability and aesthetics. Proficient in HTML, CSS, JavaScript, and modern frameworks like React Next and TailwindCss. Passionate about creating seamless and interactive user experiences',
     href: ""
   },
   {
     num: '2',
     title: 'Back-End Development',
-    description: '  Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore nulla obcaecati necessitatibus commodi placeat dolorem!',
+    description: 'Building robust and scalable server-side applications with a deep understanding of databases, APIs, and server management. Skilled in languages like Node.js and Express.js. Ensuring data integrity and efficient processing',
     href: ""
   },
   {
     num: '3',
     title: 'Full Stack Development',
-    description: '  Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore nulla obcaecati necessitatibus commodi placeat dolorem!',
+    description: 'Combining frontend and backend expertise to deliver comprehensive web solutions. Skilled in both client-side and server-side development, including real-time data handling with Socket.io. Bridging the gap between design and functionality to ensure seamless integration and performance',
     href: ""
   },
 ];
