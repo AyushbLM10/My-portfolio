@@ -7,7 +7,7 @@ import { BiLogoPostgresql } from "react-icons/bi";
 //about data
 const about = {
   title: "About Me",
-  description: "Hello, I am Ayush, a passionate software developer. I have a strong foundation in HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS. I am also proficient in Node.js, MongoDb, and Tailwind CSS. I am currently looking for a intern role in the tech industry.",
+  description: "Hello, I am Ayush, a passionate software developer. I have a strong foundation in HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS. I am also proficient in Node.js and MongoDb. I am currently looking for a intern role in the tech industry.",
   info: [
     {
       fieldName: "Name",
